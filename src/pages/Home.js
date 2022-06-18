@@ -3,7 +3,6 @@ import headerImage from "../assets/wallovens2.webp";
 import CategoryList from "../components/CategoryList/CategoryList";
 import { getCategories } from "../data/categories";
 import Nike from "../components/Nike";
-import Text from "../components/Text";
 
 import "./Home.css"
 
@@ -25,7 +24,7 @@ function Home() {
        
 
        <Nike/>
-       <Text/>
+ 
         
     </>
   );
