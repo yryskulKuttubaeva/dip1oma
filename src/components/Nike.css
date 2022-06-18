@@ -1,8 +1,9 @@
 .img {
-  
+    
+   width: 100%;
    justify-content: center;
    height: 380px;
-   width: 100%;
+  
  
 }
 
