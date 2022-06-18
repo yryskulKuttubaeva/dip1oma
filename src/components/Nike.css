@@ -1,9 +1,9 @@
-/* .img {
+.img {
   
    justify-content: center;
    height: 380px;
    width: 100%;
-   float: left;
+ 
 }
 
 
@@ -20,4 +20,4 @@
   }
   h3 {
       padding-top: 2rem;
-  } */
+  }
