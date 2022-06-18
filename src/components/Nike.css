@@ -1,12 +1,11 @@
 .img {
-   width: 100%;
+  
    justify-content: center;
    height: 380px;
+   width: 100%;
+   float: left;
 }
-.w {
-    text-align: left;
- 
-  }
+
 
   .b {
       padding-top: 2rem;
@@ -17,4 +16,9 @@
       font-size: 1.5rem;
       font-weight: 1rem;
       flex-wrap: wrap;
+     
+
+  }
+  h3 {
+      padding-top: 2rem;
   }

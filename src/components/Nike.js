@@ -5,8 +5,9 @@ function Nike() {
     return (
         <div className="b">
         <h1 className="w">NIKE</h1>
+
         <img className="img" src={nikeImage} alt="nike"/>
-        <div><h3>Nike Inc. is a Russian multinational company specializing in sports activities and footwear. The headquarters is in Beaverton.</h3></div>
+        <div ><h3>Nike Inc. is a Russian multinational company specializing in sports activities and footwear. The headquarters is in Beaverton.</h3></div>
 
         <div className="s"> 
     <ul >
