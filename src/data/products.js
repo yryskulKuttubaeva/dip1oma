@@ -11,7 +11,7 @@ import laptopImage from "../assets/laptop.jpeg"
 const products = [
   {
     image: mixer3Image,
-    productId: "Women",
+    productId: "logo",
     categoryId: "Women",
     title: "Nike",
     description: ``,
@@ -19,7 +19,7 @@ const products = [
   },
   {
     image: mixer2Image,
-    productId: "Women",
+    productId: "Jordan",
     categoryId: "Women",
     title: "Nike",
     description: ` `,
@@ -28,7 +28,7 @@ const products = [
 
   {
     image: mixerImage,
-    productId: "Women",
+    productId: "RU",
     categoryId: "Women",
     title: "Nike",
     description: ``,
@@ -44,7 +44,7 @@ const products = [
   },
   {
     image: phone2Image,
-    productId: "Male",
+    productId: "Blazer Mix",
     categoryId: "Men",
     title: "Nike",
     description: ` `,
@@ -52,7 +52,7 @@ const products = [
   },
   {
     image: phone3Image,
-    productId: "Male",
+    productId: "SA",
     categoryId: "Men",
     title: "Nike ",
     description: ` `,
