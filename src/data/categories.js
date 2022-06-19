@@ -4,7 +4,6 @@ import naysImage from "../assets/mixer.jpg";
 import headerImage from "../assets/countertop1.webp";
 import headerImage2 from "../assets/majorheader.jpeg";
 import headerImage3 from "../assets/mixerheader.jpeg";
-import  "./categories.css";
 
 const categories = [
   {
