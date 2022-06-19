@@ -12,7 +12,7 @@ const products = [
   {
     image: mixer3Image,
     productId: "Women",
-    categoryId: "Airopord",
+    categoryId: "Women",
     title: "Nike",
     description: ``,
     price: 6999,
@@ -20,7 +20,7 @@ const products = [
   {
     image: mixer2Image,
     productId: "Women",
-    categoryId: "Airopord",
+    categoryId: "Women",
     title: "Nike",
     description: ` `,
     price: 7999,
@@ -29,7 +29,7 @@ const products = [
   {
     image: mixerImage,
     productId: "Women",
-    categoryId: "Airopord",
+    categoryId: "Women",
     title: "Nike",
     description: ``,
     price: 2999,
@@ -37,7 +37,7 @@ const products = [
   {
     image: phone1Image,
     productId: "Male",
-    categoryId: "Phone",
+    categoryId: "Men",
     title: "Nike ",
     description: ` `,
     price: 9999,
@@ -45,7 +45,7 @@ const products = [
   {
     image: phone2Image,
     productId: "Male",
-    categoryId: "Phone",
+    categoryId: "Men",
     title: "Nike",
     description: ` `,
     price: 6699,
@@ -53,7 +53,7 @@ const products = [
   {
     image: phone3Image,
     productId: "Male",
-    categoryId: "Phone",
+    categoryId: "Men",
     title: "Nike ",
     description: ` `,
     price: 2399,
@@ -62,7 +62,7 @@ const products = [
     image: count1Image,
     productId: "White air max",
 
-    categoryId: "TV",
+    categoryId: "Max",
     title: "Nike",
     description: ``,
     price: 4999,
@@ -71,7 +71,7 @@ const products = [
     image: laptopImage,
     productId: "Black air max",
 
-    categoryId: "TV",
+    categoryId: "Max",
     title: "Nike ",
     description: ``,
     price: 3299,
@@ -80,7 +80,7 @@ const products = [
     image: cameraImage,
     productId: "black-white air max",
 
-    categoryId: "TV",
+    categoryId: "Max",
     title: "Nike ",
     description: '',
     price: 1299,

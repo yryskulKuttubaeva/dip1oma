@@ -8,7 +8,7 @@ import  "./categories.css";
 
 const categories = [
   {
-    categoryId: "TV",
+    categoryId: "Max",
     title: "Air max",
     title2: "lorem ipsum dolar",
     image: laptopImage,
@@ -18,7 +18,7 @@ const categories = [
   },
   {
   
-    categoryId: "Phone",
+    categoryId: "Men",
     title: "Men",
     image: phoneImage,
     headerImage: headerImage2,
@@ -27,7 +27,7 @@ const categories = [
   },
   {
   
-    categoryId: "Airopord",
+    categoryId: "Women",
     title: "Women",
     image: naysImage,
     headerImage: headerImage3,
