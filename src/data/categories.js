@@ -8,33 +8,29 @@ import headerImage3 from "../assets/mixerheader.jpeg";
 const categories = [
   {
     categoryId: "Max",
-    title: "Air max",
+    title: "Rose",
     title2: "lorem ipsum dolar",
     image: laptopImage,
     headerImage: headerImage,
-    description:" Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?.",
-  
+    description:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?.",
   },
   {
-  
     categoryId: "Men",
-    title: "Men",
+    title: "Huppy Bithiday",
     image: phoneImage,
     headerImage: headerImage2,
-    description:" Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?",
-    
+    description:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?",
   },
   {
-  
     categoryId: "Women",
-    title: "Women",
+    title: "Lili",
     image: naysImage,
     headerImage: headerImage3,
-    description:" Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?",
-    
+    description:
+      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tenetur obcaecati praesentium officia quia autem, veritatis accusantium veniam ad suscipit vitae amet magni ipsam perferendis sed, unde vel. Magni, incidunt?",
   },
- 
-
 ];
 
 export function getCategories() {

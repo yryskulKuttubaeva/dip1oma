@@ -14,7 +14,6 @@ const products = [
     productId: "logo",
     categoryId: "Women",
     title: "Nike",
-    description: ``,
     price: 6999,
   },
   {
@@ -22,7 +21,6 @@ const products = [
     productId: "Jordan",
     categoryId: "Women",
     title: "Nike",
-    description: ` `,
     price: 7999,
   },
 
@@ -31,7 +29,6 @@ const products = [
     productId: "RU",
     categoryId: "Women",
     title: "Nike",
-    description: ``,
     price: 2999,
   },
   {
@@ -39,7 +36,6 @@ const products = [
     productId: "Male",
     categoryId: "Men",
     title: "Nike ",
-    description: ` `,
     price: 9999,
   },
   {
@@ -47,7 +43,6 @@ const products = [
     productId: "Blazer Mix",
     categoryId: "Men",
     title: "Nike",
-    description: ` `,
     price: 6699,
   },
   {
@@ -55,7 +50,6 @@ const products = [
     productId: "SA",
     categoryId: "Men",
     title: "Nike ",
-    description: ` `,
     price: 2399,
   },
   {
@@ -64,7 +58,6 @@ const products = [
 
     categoryId: "Max",
     title: "Nike",
-    description: ``,
     price: 4999,
   },
   {
@@ -73,7 +66,6 @@ const products = [
 
     categoryId: "Max",
     title: "Nike ",
-    description: ``,
     price: 3299,
   },
   {
@@ -82,7 +74,6 @@ const products = [
 
     categoryId: "Max",
     title: "Nike ",
-    description: '',
     price: 1299,
   },
 ];

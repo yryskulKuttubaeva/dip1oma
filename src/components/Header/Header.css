@@ -13,28 +13,52 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, .3);
   }
   .Header section {
-    position	: absolute;
-      top		: 360px;
-      left		: 0;
-      width		: 100%;
-    color: black;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: rgba(56, 54, 54, 0.603);
-    color: white;
-    
-    /* position: absolute;
-    bottom: -3rem;
-    right: 2rem;
-    max-width: 500px;
-    margin-left: 2rem;
-    background-color: rgb(127, 197, 238);
-    padding: 0 2rem 0;
-    border-radius: 2rem;
-    font-size: 1.2rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, .3); */
+    position: absolute;
   
+    top: 20%;
+    left: 1%;
+  
+    color: white;
+    padding: 15px;
+    margin: 10px;
+    max-width: 40%;
+  
+    background-color: rgba(61, 60, 60, 0.658);
   }
+  
   .Header h1 {
-    font-size: 2rem;
+    padding: 0.5rem 3rem;
+    color: #f2f2f2;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    font-family: Muli, sans-serif;
+  
+    font-weight: 400;
+    letter-spacing: 1.82px;
+    text-transform: uppercase;
+  }
+  .Header p {
+    padding: 0.5rem 3rem;
+    color: #f2f2f2;
+    font-size: 0.8rem;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    font-family: Muli, sans-serif;
+    
+    font-weight: 400;
+    letter-spacing: 1.82px;
+  }
+  @media (max-width: 700px) {
+    .Header section {
+      position: absolute;
+  
+      top: 15%;
+      left: 7%;
+  
+      color: white;
+      padding: 15px;
+      margin: 10px;
+      max-width: 80%;
+    }
   }
